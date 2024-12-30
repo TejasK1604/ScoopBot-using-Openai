@@ -25,6 +25,11 @@ This project is focused on creating a chatbot that can be tailored for small bus
 3. **Customization**  
    Techniques for customizing the chatbot to match different business requirements.
 
+4. **Prerequisites**
+ OpenAI API key
+ Google Colab account
+ Basic knowledge of Python
+
 ## How to Use
 1. Clone the repository:
    ```bash
