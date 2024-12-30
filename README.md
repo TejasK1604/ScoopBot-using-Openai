@@ -37,11 +37,6 @@ This project is focused on creating a chatbot that can be tailored for small bus
 2.Open the .ipynb file in Google Colab.
 3.Follow the instructions in the notebook to set up the environment and integrate your OpenAI API key.
 
-4. **Prerequisites**
- OpenAI API key
- Google Colab account
- Basic knowledge of Python
-
 About the Author
 This project was created by Tejas Kajale as part of exploring the applications of large language models. Contributions and feedback are welcome!
 
